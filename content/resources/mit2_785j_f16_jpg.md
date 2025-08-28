@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/cell-matrix-mechanics/mit2_785j_f16.jpg
+file: /ol-ocw-studio-app/courses/2-785j-cell-matrix-mechanics-fall-2016/mit2_785j_f16.jpg
 file_size: 203197
 file_type: image/jpeg
 image_metadata:
