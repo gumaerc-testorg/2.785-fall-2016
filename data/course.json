@@ -71,10 +71,11 @@
   "extra_course_numbers": "HST.523J",
   "primary_course_number": "2.785J",
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Readings"
   ],
   "site_uid": "60e75704-af7f-427f-ac02-ca274abf3617",
-  "site_short_id": "2.785-fall-2016"
+  "site_short_id": "2.785-fall-2016",
+  "site_url_path": "courses/2-785j-cell-matrix-mechanics-fall-2016"
 }
