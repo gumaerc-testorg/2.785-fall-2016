@@ -12,27 +12,27 @@ Lectures: 2 sessions/week, 1.5 hours/session
 
 ## Prerequisites
 
-One of the following courses, which fulfill {{% resource_link "cf900a86-3385-44da-9b6f-be08387f6892" "the General Institute Requirement (GIR) in Biology" %}}:
+One of the following courses, which fulfill [the General Institute Requirement (GIR) in Biology](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/):
 
-- {{% resource_link "8685a0ad-9460-42b5-bbe2-58f1f6f3b708" "*7.012 Introductory Biology*" %}}
-- {{% resource_link "e1f10605-f58c-45d9-b540-c1e33dc485a3" "*7.013 Introductory Biology*" %}}
-- {{% resource_link "76cf67fb-9d02-4df3-a277-cfd8588962e6" "*7.014 Introductory Biology*" %}}
+- [*7.012 Introductory Biology*](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/)
+- [*7.013 Introductory Biology*](https://ocw.mit.edu/courses/7-013-introductory-biology-spring-2018/)
+- [*7.014 Introductory Biology*](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/)
 - *7.015 Introductory Biology*
-- {{% resource_link "6c63907f-5fe7-4dbf-bd2c-b53e76f08117" "*7.016 Introductory Biology*" %}}
+- [*7.016 Introductory Biology*](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)
 
-One of the following courses, which fulfill {{% resource_link "cf900a86-3385-44da-9b6f-be08387f6892" "the GIR in Chemistry" %}}:
+One of the following courses, which fulfill [the GIR in Chemistry](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/):
 
-- {{% resource_link "fff6cb99-1afe-45a5-a794-6298874f3eb0" "*3.091 Introduction to Solid-State Chemistry*" %}}
-- {{% resource_link "0359004b-ef7a-498c-8d97-70cbbee257e6" "*5.111 Principles of Chemical Science*" %}}
-- {{% resource_link "e9482723-b46d-48cb-9e64-fca005d63176" "*5.112 Principles of Chemical Science*" %}}
+- [*3.091 Introduction to Solid-State Chemistry*](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/)
+- [*5.111 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)
+- [*5.112 Principles of Chemical Science*](https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/)
 
-and {{% resource_link "84d48014-7b17-48ec-82a3-1c2a672dc55c" "*2.001 Mechanics and Materials I*" %}}
+and [*2.001 Mechanics and Materials I*](https://ocw.mit.edu/courses/2-001-mechanics-materials-i-fall-2006/)
 
 or permission of instructor
 
 ## Course Description
 
-This course teaches the effects of mechanical forces (strains) on cells and how cells generate mechanical forces by their contraction. Critical to both topics is the mechanical behavior of the extracellular matrix (ECM), which the cells have synthesized and remodeled. The ECM affects cell behavior by mediating exogenous mechanical strains, which stimulate certain cellular processes. Cell-matrix mechanics informs our fundamental understanding of: the formation and remodeling of tissues/organs (T/O) in the fetus, and their postnatal development; changes in T/O in injury, disease, and aging; targets for treatment in pathological conditions; and mechanics-based tools for treatment. An understanding of these issues connects with three other courses: {{% resource_link "25fcd64b-3e15-4989-810d-0e60925a8878" "*2.787J/HST.535J Tissue Engineering and Organ Regeneration*" %}}, {{% resource_link "f8984fb5-4938-4a9a-b3de-933ce07b80a1" "*2.79J/HST.522J/20.441J Biomaterials-Tissue Interactions*" %}}, and {{% resource_link "35a0d1da-d51f-4d40-835d-81793c046d32" "*2.782J/HST.524J Design of Medical Devices and Implants*" %}}.
+This course teaches the effects of mechanical forces (strains) on cells and how cells generate mechanical forces by their contraction. Critical to both topics is the mechanical behavior of the extracellular matrix (ECM), which the cells have synthesized and remodeled. The ECM affects cell behavior by mediating exogenous mechanical strains, which stimulate certain cellular processes. Cell-matrix mechanics informs our fundamental understanding of: the formation and remodeling of tissues/organs (T/O) in the fetus, and their postnatal development; changes in T/O in injury, disease, and aging; targets for treatment in pathological conditions; and mechanics-based tools for treatment. An understanding of these issues connects with three other courses: [*2.787J/HST.535J Tissue Engineering and Organ Regeneration*](https://ocw.mit.edu/courses/2-787j-tissue-engineering-and-organ-regeneration-fall-2024/), [*2.79J/HST.522J/20.441J Biomaterials-Tissue Interactions*](https://ocw.mit.edu/courses/20-441j-biomaterials-tissue-interactions-fall-2009/), and [*2.782J/HST.524J Design of Medical Devices and Implants*](https://ocw.mit.edu/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/).
 
 This course was created by Professors Myron Spector and Ioannis Yannas in 1992, and was last taught in the fall 2016 term. The course content is updated regularly to include new knowledge acquired by the scientific, engineering, and clinical communities. 
 

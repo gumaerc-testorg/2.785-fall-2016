@@ -9,16 +9,16 @@ uid: 1eccc6ef-77cb-47bb-bfb4-02c98f40514e
 
 ## Backgrounds of the Instructors
 
-- {{% resource_link "462382a0-2f37-401f-b658-4b9cf18770ac" "Myron Spector (PDF)" %}} (external)
-- {{% resource_link "bcec8781-f5cf-4181-89e5-e9c3f38f3226" "Ioannis Yannas (PDF)" %}} (external)
+- [Myron Spector (PDF)](https://www.dropbox.com/scl/fo/7546823tljy1bjyt9tpcq/ADo_D--pragUp359O9LUCiY/Backgrounds%20of%20Lecturers?dl=0&preview=1+Myron+Spector.pdf&rlkey=k1xjxujib4qod0q2pu12nvmyx&subfolder_nav_tracking=1) (external)
+- [Ioannis Yannas (PDF)](https://www.dropbox.com/scl/fo/7546823tljy1bjyt9tpcq/ADo_D--pragUp359O9LUCiY/Backgrounds%20of%20Lecturers?dl=0&preview=2+Ioannis+Yannas.pdf&rlkey=k1xjxujib4qod0q2pu12nvmyx&subfolder_nav_tracking=1) (external)
 
 ## Videos (to be updated with time)
 
-- {{% resource_link "0f97b2f2-602f-4d52-a046-847e1440a4a7" "Videos" %}} (external)
+- [Videos](https://www.dropbox.com/scl/fo/7546823tljy1bjyt9tpcq/AI_hpnBlFfy3gXo4-9R4aGo/Supplementary%20Resources/Videos?dl=0&rlkey=k1xjxujib4qod0q2pu12nvmyx&subfolder_nav_tracking=1) (external)
 
 ## Readings (to be updated with time)
 
-- {{% resource_link "e70b17ab-7ada-4b32-945f-9a50fd3799d6" "Journal articles" %}} (external)
-- {{% resource_link "ac4c03ab-006d-4660-8ffa-664a679b1cbd" "Slide sets" %}} (external)
+- [Journal articles](https://www.dropbox.com/scl/fo/7546823tljy1bjyt9tpcq/APeP-7nKN2ycWBTThk8jCsM/Supplementary%20Resources/Journal%20Articles?dl=0&rlkey=k1xjxujib4qod0q2pu12nvmyx&subfolder_nav_tracking=1) (external)
+- [Slide sets](https://www.dropbox.com/scl/fo/7546823tljy1bjyt9tpcq/AEP5hAgBh8bmmbuBdRwyfnY/Supplementary%20Resources/Slide%20Sets?dl=0&rlkey=k1xjxujib4qod0q2pu12nvmyx&subfolder_nav_tracking=1) (external)
 
 ### Note: All of the links on this page lead to an external third-party site and content which has terms and conditions, including license rights, that are excluded from the OCW Creative Commons license (CC BY-NC-SA).
